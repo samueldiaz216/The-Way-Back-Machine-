@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-Way-Back-Machine-/static/css/main.9892d863.chunk.css",
+    "main.js": "/The-Way-Back-Machine-/static/js/main.1cc47493.chunk.js",
+    "main.js.map": "/The-Way-Back-Machine-/static/js/main.1cc47493.chunk.js.map",
+    "runtime-main.js": "/The-Way-Back-Machine-/static/js/runtime-main.20c82267.js",
+    "runtime-main.js.map": "/The-Way-Back-Machine-/static/js/runtime-main.20c82267.js.map",
+    "static/js/2.30ec8634.chunk.js": "/The-Way-Back-Machine-/static/js/2.30ec8634.chunk.js",
+    "static/js/2.30ec8634.chunk.js.map": "/The-Way-Back-Machine-/static/js/2.30ec8634.chunk.js.map",
+    "index.html": "/The-Way-Back-Machine-/index.html",
+    "static/css/main.9892d863.chunk.css.map": "/The-Way-Back-Machine-/static/css/main.9892d863.chunk.css.map",
+    "static/js/2.30ec8634.chunk.js.LICENSE.txt": "/The-Way-Back-Machine-/static/js/2.30ec8634.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/The-Way-Back-Machine-/static/media/bi9.2b0cdbbd.jpg",
+    "static/media/Basket.css": "/The-Way-Back-Machine-/static/media/PermanentMarker-x99j.8e080925.ttf",
+    "static/media/BasketProduct.css": "/The-Way-Back-Machine-/static/media/background-crumpled-paper-sheet_1194-7545.9846881b.jpg",
+    "static/media/ProductPage.css": "/The-Way-Back-Machine-/static/media/productPageProductBackground.5cf630f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20c82267.js",
+    "static/js/2.30ec8634.chunk.js",
+    "static/css/main.9892d863.chunk.css",
+    "static/js/main.1cc47493.chunk.js"
+  ]
+}
